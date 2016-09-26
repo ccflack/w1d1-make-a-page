@@ -2,10 +2,29 @@ body {
   background-color: #B4B8AB;
 }
 h1 {
-  color: #313638;
+  color: #1D2021;
+  font-family: "Arial Black";
 }
 h3 {
   text-align: center;
+  color: #1D2021;
+  font-family: "Arial Black"
+}
+#introduction {
+  color: #313638
+}
+a:link {
+  text-decoration: none;
+  border-bottom: 1px dotted;
+  color: #504B3A;
+}
+a:hover {
+  text-decoration: none;
+  color: #504B3A;
+  border-bottom: none;
+}
+a:visited {
+  color: #7D8570
 }
 .heading-img {
   width: 300px;
@@ -16,6 +35,12 @@ h3 {
 .copy {
   color: #313638;
 }
-.big-font {
-  font-size: 200px;
+.list {
+  color: #313638;
+}
+footer {
+  text-align: center;
+  font-family: "Arial Black";
+  font-size: 20px;
+  color: #1D2021;
 }
