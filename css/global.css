@@ -1,0 +1,16 @@
+body {
+  #background-color: #B4B8AB;
+  #font-size: 250px;
+}
+h1 {
+  color: red;
+}
+#first {
+  color: blue
+}
+.red-text {
+  color: red;
+}
+.big-font {
+  font-size: 200px;
+}
