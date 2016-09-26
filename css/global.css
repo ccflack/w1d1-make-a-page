@@ -4,14 +4,28 @@ body {
 h1 {
   color: #1D2021;
   font-family: "Arial Black";
+  background-color: #E0E5D5
 }
 h3 {
   text-align: center;
   color: #1D2021;
   font-family: "Arial Black"
 }
+#top {
+  background-color: #E5DFA0;
+}
+#top-mid {
+  background-color: #E5DA5E;
+}
+#bottom-mid {
+  background-color: #C94932;
+}
+#bottom {
+  background-color: #603311;
+  color: #7C846F;
+}
 #introduction {
-  color: #313638
+  color: #313638;
 }
 a:link {
   text-decoration: none;
